@@ -1,4 +1,4 @@
-# 💫 About Me:
+#
 🔭 I’m currently working on blockchain, cryptocurrency, smart contract<br><br>🌱 I’m currently learning DSA using java<br><br>🤝 I’m looking for help with blockchain and DSA in java<br><br>👨‍💻 All of my projects are available at https://github.com/Yasharma19<br><br>💬 Ask me about java and python<br><br>📫 How to reach me yash304sharma@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1k0mf6yhrvG8o7rXPOty3bwtO7c8ycFwA/view?usp=sharing
 
 
