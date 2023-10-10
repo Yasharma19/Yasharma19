@@ -1,6 +1,6 @@
 # Hi, I'm Yash Sharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hey">
-🔭 I’m currently working on Machine Learning, Blockchain, Cryptocurrency, Smart Contract<br><br>🌱 I’m currently learning DSA using Java<br><br>🤝 I’m looking for help with Machine Learning, Blockchain and DSA in Java<br><br>👨‍💻 All of my projects are available at https://github.com/Yasharma19<br><br>💬 Ask me about Java and Python<br><br>📫 How to reach me yash304sharma@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1XTC78jB0Ai50YIyDF0HmzEftsfAjZzNv/view?usp=sharing](https://drive.google.com/file/d/1d4gQ2zhbSkyu_DHSeV96mPpfrAk5BgS_/view?usp=sharing)
-
+🔭 I’m currently working on Machine Learning, Blockchain, Cryptocurrency, Smart Contract<br><br>🌱 I’m currently learning DSA using Java<br><br>🤝 I’m looking for help with Machine Learning, Blockchain and DSA in Java<br><br>👨‍💻 All of my projects are available at https://github.com/Yasharma19<br><br>💬 Ask me about Java and Python<br><br>📫 How to reach me yash304sharma@gmail.com<br><br>📄 Know about my experiences [[https://drive.google.com/file/d/1XTC78jB0Ai50YIyDF0HmzEftsfAjZzNv/view?usp=sharing](https://drive.google.com/file/d/1d4gQ2zhbSkyu_DHSeV96mPpfrAk5BgS_/view?usp=sharing)
+](https://drive.google.com/file/d/1NOYjKGtTkvOXM1aLHVSChPupyaVnxlIv/view?usp=sharing)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashsharmaa21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sharma-55a710198) 
 
